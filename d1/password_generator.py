@@ -39,4 +39,4 @@ while len(final_list) > 0:
     final_pw += i
     final_list.remove(i)
 
-print(final_pw)
+print(f"Your password is: {final_pw}")
